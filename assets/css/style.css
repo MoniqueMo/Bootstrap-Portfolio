@@ -4,6 +4,8 @@ body {background-image: url("../images/background.png");
     background-size: cover;
     padding: 0px;
     margin: 0; 
+    margin-bottom: 200px;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .navbar-light .navbar-brand {background-color: #4aaaa5;
@@ -26,6 +28,16 @@ h2{ font-family: Arial, Helvetica, sans-serif;
 }
 
 .constainer2 { vertical-align: middle;
+}
+
+.card {margin: 0 auto;
+float: none; 
+margin-bottom: 50px;
+}
+
+.btn-primary { background-color: #4aaaa5;
+    border-color: #4aaaa5;
+
 }
 
 #main-bio {font-family: Arial, Helvetica, sans-serif;
